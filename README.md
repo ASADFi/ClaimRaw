@@ -1,1 +1,1 @@
-consol.log("ClaimitRaw")
+consol.log("ClaimitRaw testing ")
